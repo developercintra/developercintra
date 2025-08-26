@@ -1,10 +1,6 @@
-## Olá! eu sou o Gabriel Cintra 🙋🏾‍♂️💻
+## Olá, eu sou o Gabriel!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cintra-developer/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.grabek277/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cintragabrielcintra@gmail.com)
-
-![Cintra GitHub stats](https://github-readme-stats.vercel.app/api?username=developercintra&show_icons=true&theme=merko)
+Bem-vindo ao meu perfil do GitHub! Apaixonado por criar aplicações web completas, integrando frontend, backend e banco de dados.
 
 ## 🛠️ Tecnologias e Ferramentas:
 
@@ -13,8 +9,13 @@
         <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
         <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+        <img align="center" alt="Django" src="ttps://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+        <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+        <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
         <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
 
-## 🚀 O que me motiva:
-#### Cada projeto é uma oportunidade de aprender algo novo e de crescer como desenvolvedor. Acredito que a inovação é a chave para criar experiências incríveis, e é isso que busco em cada linha de código que escrevo.
+## Conecte-se Comigo:
+#### Email: gabrielcintracantonio@gmail.com
+### Linkedin: Gabriel Cintra
