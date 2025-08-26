@@ -2,8 +2,14 @@
 
 Bem-vindo ao meu perfil do GitHub! Apaixonado por criar aplicações web completas, integrando frontend, backend e banco de dados.
 
+## Sobre Mim
+#### Desenvolvedor Fullstack, com 18 anos, desenvolvendo habilidades em frontend e backend.
+#### Cursando Ciências da Computação
+#### Estudando Django, PHP - Laravel e NodeJS.
+
 ## 🛠️ Tecnologias e Ferramentas:
 
+###Linguagens
 <div style="display: inline_block; gap: 3;"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -18,4 +24,4 @@ Bem-vindo ao meu perfil do GitHub! Apaixonado por criar aplicações web complet
 
 ## Conecte-se Comigo:
 #### Email: gabrielcintracantonio@gmail.com
-### Linkedin: Gabriel Cintra
+#### Linkedin: Gabriel Cintra
